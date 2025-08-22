@@ -44,7 +44,4 @@ python manage.py runserver
 - JavaScript interactivity ✅ 
 - Clean Django structure ✅
 
-Built with Django 5 | 
-          _sift.push(["_setSessionId", "6b0b00a3-d94c-41f7-9cda-e8f96d0781db"]);
-          _sift.push(["_trackPageview"]);
-      
+Built with Django 5 
